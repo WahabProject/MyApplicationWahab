@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyApplicationWahab</string>
+    <string name="move_activity">move_activity</string>
+    <string name="choose_number">choose_number</string>
+    <string name="nama_wahab_dulloh">Nama : Wahab Dulloh</string>
+    <string name="nim_2010031805022">NIM : 2010031805022</string>
+    <string name="prodi_teknologi_informasi">PRODI : Teknologi Informasi</string>
+    <string name="alamat_seresam_indragiri_hulu">ALAMAT : Seresam, Indragiri Hulu</string>
+    <string name="ttl_seresam_12_agustus_1999">TTL : Seresam, 12 Agustus 1999</string>
+    <string name="hobi_streaming_movie">HOBI : Streaming Movie</string>
+    <string name="button_pindah">Button Pindah</string>
+    <string name="move_data">move_data</string>
+    <string name="move_with_object">move_with_object</string>
+    <string name="dial_number">dial_number</string>
+    <string name="move_with_result">move_with_result</string>
+    <string name="biodata">Biodata</string>
+    <string name="result_from_activity">result_from_activity</string>
+    <string name="ini_halaman_pindah">Ini halaman pindah</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">choose</string>
+    <string name="data_received">data_received</string>
+    <string name="object_received">object_received</string>
+
+
+</resources>
